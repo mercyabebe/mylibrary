@@ -57,7 +57,7 @@ MyLibrary is a Windows desktop application developed in C# with WinForms that en
 
 ---
 
-### 5. Reports and Filtering (Bonus)
+### 5. Reports and Filtering 
 - Filter books by author or year range in the Books Management tab.
 - A report for overdue books (where DueDate is before the current date) can be added.
 
