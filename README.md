@@ -1,3 +1,4 @@
+Name Mihret Abebe    ID  1501367
  # MyLibrary Desktop Application - Functional Overview and Description
 
 ## Overview
@@ -93,6 +94,4 @@ MyLibrary integrates UI design, event-driven programming, database connectivity,
 - The database file `MyLibrary.db` must be present alongside the executable.
 - The app uses SQLite for lightweight, file-based storage without requiring a server.
 
----
-
-Thank you for exploring MyLibrary!
+-
